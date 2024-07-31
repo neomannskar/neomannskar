@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Visit my site: [https://mannskar.com/](https://mannskar.com/).
+Visit my site: [https://www.mannskar.com/](https://www.mannskar.com/).
 
 <!--
 **neomannskar/neomannskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
